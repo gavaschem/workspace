@@ -1,4 +1,4 @@
-# workspace automation ( Junit framed used and its a Maven Project)
+# workspace automation ( Junit framework used and its a Maven Project)
 Install intelliJ
 download the staging_final zip
 Unzip and place it on local drive
